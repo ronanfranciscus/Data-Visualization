@@ -1,0 +1,26 @@
+Jumlah Kunjungan Wisatawan ke Akomodasi di Jawa Barat Menurut Kabupaten/Kota, 2020	 
+
+link : https://jabar.bps.go.id/statictable/2022/07/13/650/jumlah-kunjungan-wisatawan-ke-akomodasi-di-jawa-barat-menurut-kabupaten-kota-2020-.html
+
+----------------------------------------------------------------
+Banyaknya Rumah Makan/Restoran Menurut Kabupaten/Kota di Provinsi Jawa Barat, 2020	 	 	
+
+link :https://jabar.bps.go.id/statictable/2022/07/13/648/banyaknya-rumah-makan-restoran-menurut-kabupaten-kota-di-provinsi-jawa-barat-2020.html	 
+
+----------------------------------------------------------------
+Jumlah Kunjungan Wisatawan ke Obyek Wisata Menurut Kabupaten/Kota di Jawa Barat, 2020	 	
+
+link :https://jabar.bps.go.id/statictable/2022/07/13/651/jumlah-kunjungan-wisatawan-ke-obyek-wisata-menurut-kabupaten-kota-di-jawa-barat-2020.html	
+
+
+========================================================================
+if you want to see a process of transform a data :
+
+1. open wisata.csv (this is a raw data that collected from links above)
+2. open sql file (to see cleaning and update data,put csv file first in database)
+3. open wisata_jabar_update_202210060908.csv (an updated data)
+
+note :
+
+I converted a data to csv in Dbeaver !! 
+
